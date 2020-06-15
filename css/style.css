@@ -1,0 +1,51 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.navbar{
+	background-color: #C0C0C0;
+
+}
+
+
+.carousel-item img{
+	height: 550px;
+	width: 100px;
+}
+
+.d-block{
+	height:550px;
+}
+
+.col-md-6 img{
+	height: 300px;
+	width: 300px;
+	margin: top;
+}
+
+
+.getting{
+	background: url(../images/1.jpg);
+	height: 200px;
+	background-size: cover;
+	position: relative;
+}
+
+.getting-overlay{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background: rgba(0,0,0,0.6);
+}
+
+.section-banner{
+	background: url(../images/bn1.jpg);
+	height: 250px;
+	background-size: cover;
+	background-position: center;
+}
+
+.what-do img{
+	margin-top: -70px;
+}
